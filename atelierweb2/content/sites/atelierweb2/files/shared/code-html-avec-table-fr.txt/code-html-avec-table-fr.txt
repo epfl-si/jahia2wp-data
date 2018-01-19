@@ -1,0 +1,96 @@
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+
+<form name="FormName" action="http://www.epfl.ch/cgi-bin/new/switch2003" method="post">
+<input type="hidden" name="notfirsttime" value="Y">
+<table border="0" cellpadding="0" cellspacing="0" width="155">
+
+<tr>
+<td bgcolor="red" width="1"><img src="images/pixel.gif" width="1" height="1" border="0" alt=" "></td>
+<td bgcolor="red" width="153"><img src="http://www.epfl.ch/images/txt_br_recherche.gif" width="140" height="18" border="0" alt="Outils de recherche"></td>
+<td bgcolor="red" width="1"><img src="images/pixel.gif" width="1" height="1" border="0" alt=" "></td>
+</tr>
+
+<tr>
+<td bgcolor="red" width="1"><img src="images/pixel.gif" width="1" height="1" border="0" alt=" "></td>
+<td width="153">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+	<td height="4"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+	<td height="4"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+	</tr>
+
+	<tr height="24">
+	<td width="25" nowrap align="right"><input type="radio" value="radio1" name="checkbox" checked></td>
+	<td class="text" valign="middle">une personne</td>
+	</tr>
+
+	<tr height="24">
+	<td valign="middle" width="25" nowrap align="right"><input type="radio" value="radio2" name="checkbox"></td>
+	<td class="text" valign="middle">un lieu</td>
+	</tr>
+
+	<tr height="24">
+	<td width="25" nowrap height="24" align="right"><input type="radio" value="radio4" name="checkbox"></td>
+	<td class="text" valign="middle" height="24">epfl.ch avec Google</td>
+	</tr>
+	</table>
+
+	<table border="0" cellpadding="4" cellspacing="0" width="153">
+	<tr valign="bottom">
+	<td><input type="text" name="name" size="10"></td>
+	<td nowrap valign="middle"><input type="image" src="http://www.epfl.ch/images/button_ok.gif" border="0" alt="OK"></td>
+	</tr>
+
+	<tr valign="bottom">
+	<td colspan="2"><a href="http://www.epfl.ch/Search/index.html">Recherche d&eacute;taill&eacute;e</a><br>
+	<a href="http://plan.epfl.ch">Plan d'orientation</a><br>
+	<a href="http://www.epfl.ch/memento">Conf&eacute;rences</a><br>
+	</td>
+	</tr>
+
+	</table>
+
+</td>
+<td width="1" bgcolor="red"><img src="images/pixel.gif" width="1" height="1" border="0" alt=" "></td>
+</tr>
+
+<tr height="1">
+<td width="1" bgcolor="red"><img src="images/pixel.gif" width="1" height="1" border="0" alt=" "></td>
+<td bgcolor="red" width="153"><img src="images/pixel.gif" width="1" height="1" border="0" alt=" "></td>
+<td width="1" bgcolor="red"><img src="images/pixel.gif" width="1" height="1" border="0" alt=" "></td>
+</tr>
+
+<tr height="5">
+<td width="1" height="5"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+<td width="153" height="5"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+<td width="1" height="5"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+</tr>
+
+<tr height="18">
+<td bgcolor="red" width="1"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+<td bgcolor="red" width="155"><a href="(EmptyReference!)"><img src="http://www.epfl.ch/images/txt_br_liensut.gif" width="140" height="18" border="0" alt="Liens utiles"></a></td>
+<td bgcolor="red" width="1"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+</tr>
+
+<tr>
+<td bgcolor="red" width="1"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+<td width="153">
+	<p class="boxtext"><a href="http://www.epfl.ch">&lt;Liens utiles&gt;</a><br></p>
+</td>
+<td width="1" bgcolor="red"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+</tr>
+
+<tr height="1">
+<td width="1" bgcolor="red"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+<td bgcolor="red" width="153"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+<td width="1" bgcolor="red"><img src="images/pixel.gif" alt=" " width="1" height="1" border="0"></td>
+</tr>
+
+</table>
+</form>
+</td>
+
+</tr>
+</table>

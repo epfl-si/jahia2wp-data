@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+  <title>Titre de la page</title>
+  <link rel="apple-touch-icon" href="http://m.epfl.ch/static/images/apple-touch-icon.png"/>
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css"/>
+  <link rel="stylesheet" href="http://m.epfl.ch/static/epfl.css"/>
+  <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+  <script src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+  <script>
+    if (("standalone" in window.navigator) && window.navigator.standalone)
+    {
+      $("a[data-ajax*=false]").live('click', function(){
+        window.location.href=this.href;
+        return false;
+      });
+    }
+  </script>
+</head>
+<body data-theme="l">
+<div data-role="page" data-add-back-btn="true">
+  <div data-role="header" data-theme="l">
+    <h1>Titre de la page</h1>
+  </div>
+  <div data-role="content">
+    [...] Le contenu de la page
+  </div>
+</div>
+</body>
+</html>
